@@ -83,7 +83,7 @@ def edit():
 
 # ---------------------SELECT MOVIE SECTION----------------#
 URL_LINK = "https://api.themoviedb.org/4/search/movie"
-MOVIE_DB_API_KEY = "1234gjkl5"
+MOVIE_DB_API_KEY = "0a06f5a13760ef9f416d5e9e3c0391dc"
 
 
 @app.route("/add", methods=['POST', 'GET'])
